@@ -1,0 +1,3 @@
+KangXu is a software engineer
+He likes to read and write code
+Java is his favorite programming language

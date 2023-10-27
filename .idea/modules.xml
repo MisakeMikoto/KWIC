@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EventSystemSA/EventSystemSA.iml" filepath="$PROJECT_DIR$/EventSystemSA/EventSystemSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KWIC.iml" filepath="$PROJECT_DIR$/KWIC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MainProgram-SubprogramSA/MainProgram-SubprogramSA.iml" filepath="$PROJECT_DIR$/MainProgram-SubprogramSA/MainProgram-SubprogramSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOSA/OOSA.iml" filepath="$PROJECT_DIR$/OOSA/OOSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PipelineFilteringSA/PipelineFilteringSA.iml" filepath="$PROJECT_DIR$/PipelineFilteringSA/PipelineFilteringSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SA/SA.iml" filepath="$PROJECT_DIR$/SA/SA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SeleniumTest/SeleniumTest.iml" filepath="$PROJECT_DIR$/SeleniumTest/SeleniumTest.iml" />
+    </modules>
+  </component>
+</project>
